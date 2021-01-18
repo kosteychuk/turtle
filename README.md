@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### My stack 👨‍💻 From most experience to least
-### • PHP
-### • CSS
+## • PHP
+# • CSS
 ### • HTML
 ### • PYTHON
 
