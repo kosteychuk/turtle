@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My stack 👨‍💻 From most experience to least
+### My stack 👨‍💻 From most experience to least
 Python JavaScript HTML CSS Git Nim
 
 Contact me 💌
