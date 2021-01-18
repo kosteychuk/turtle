@@ -6,6 +6,6 @@
 #### • HTML
 #### • PYTHON
 
-Contact me 💌
-## • Telegram https://t.me/nb0me
+### Contact me 💌
+###### • Telegram https://t.me/nb0me
 
