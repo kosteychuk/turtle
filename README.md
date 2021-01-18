@@ -7,5 +7,5 @@
 #### • PYTHON
 
 ### Contact me 💌
-###### • Telegram https://t.me/nb0me
+#### • Telegram - https://t.me/nb0me
 
