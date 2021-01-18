@@ -1,7 +1,7 @@
 <h3>Hi there 👋</h3>
 
 ## My stack 👨‍💻 From most experience to least
-#### • PHP
+![PHP](https://img.shields.io/badge/-PHP-%23de4b25?logo=php&logoColor=Purple&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
