@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### My stack 👨‍💻 From most experience to least
-## • PHP
+#### • PHP
 #### • CSS
-###### • HTML
-### • PYTHON
+#### • HTML
+#### • PYTHON
 
 Contact me 💌
-• Telegram https://t.me/nb0me
+## • Telegram https://t.me/nb0me
 
