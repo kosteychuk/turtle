@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h2>Hi there 👋</h2>
 
 ## My stack 👨‍💻 From most experience to least
 ![PHP](https://img.shields.io/badge/-PHP-4f5b93?logo=php&logoColor=white&style=flat-square)
